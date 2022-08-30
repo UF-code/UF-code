@@ -46,12 +46,12 @@
 <!-- ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp; -->
 <!-- ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp; -->
 
-
+<!-- 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=UF-code&show_icons=true&locale=en&layout=compact" alt="UF-code" /></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=UF-code&show_icons=true&theme=dark" alt="UF-code" /> 
 </p>
-
+ -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UF-code&" alt="UF-code" /></p>
 
 

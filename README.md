@@ -51,9 +51,13 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=UF-code&show_icons=true&theme=dark" alt="UF-code" /> 
 </p>
- -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UF-code&" alt="UF-code" /></p>
+-->
 
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=UF-code&show_icons=true&locale=en&layout=compact" alt="UF-code" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UF-code&" alt="UF-code" /></p>
 
 
 <!-- ### Hi there 👋 -->

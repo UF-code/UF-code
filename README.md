@@ -72,7 +72,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![Screenshot 2022-10-07 224327](https://user-images.githubusercontent.com/67328993/194641409-b00b24b6-5f1a-4fdf-9673-24120d9cf590.png)
+
+![Screenshot 2022-10-07 224447](https://user-images.githubusercontent.com/67328993/194641582-d49aa3cb-d209-4d66-bd92-b755373d7221.png)
 
 
 

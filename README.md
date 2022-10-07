@@ -71,6 +71,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-![Screenshot 2022-10-04 234834](https://user-images.githubusercontent.com/67328993/193924929-45f5b2b0-bb51-4333-a40e-4d67800996bf.png)
+
+![Screenshot 2022-10-07 224327](https://user-images.githubusercontent.com/67328993/194641409-b00b24b6-5f1a-4fdf-9673-24120d9cf590.png)
+
+
 
 

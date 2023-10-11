@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=UF-code" alt="UF-code" /> </p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=UF-code" alt="UF-code" /> </p> -->
 
 <!-- <h3 align="center">🛠 Tech Stack</h3>
 

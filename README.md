@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 
 <!-- ![Screenshot 2022-10-07 224602](https://user-images.githubusercontent.com/67328993/194641768-684b03b2-c217-4f8e-be7a-b967cc5707fa.png) -->
 
-
-
+<!--
 [cv-rr.pdf](https://github.com/UF-code/UF-code/files/10857484/cv-rr.pdf)
+-->
 
 
